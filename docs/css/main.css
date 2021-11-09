@@ -451,8 +451,8 @@ iframe {
 }
 
 @media (max-width: 992px) {
-  .alert-validate::before {
+ .alert-validate::before {
     visibility: hidden;
-    opacity: 1;
+    opacity: 0;
   }
 }
