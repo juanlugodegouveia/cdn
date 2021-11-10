@@ -459,3 +459,14 @@ iframe {
     opacity: 0;
   }
 }
+
+/* Juan's Code */
+
+td {
+padding: .5rem 1rem!important;
+}
+
+.retrieve_value {
+color: #57b846;
+padding-left: .5rem;
+}
