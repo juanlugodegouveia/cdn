@@ -470,3 +470,12 @@ padding: .5rem 1rem!important;
 color: #57b846;
 padding-left: .5rem;
 }
+
+thead {
+    background: #57b846;
+    color: #fff;
+}
+
+th {
+    text-align: center;
+}
